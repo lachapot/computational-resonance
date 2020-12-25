@@ -1,0 +1,115 @@
+SUPPLEMENTARY MATERIALS: ARRAY OF TOPIC MODELS GENERATED FROM THE CORPUS 
+
+
+TOPIC MODEL FOR 5 TOPICS:
+
+0	1	ganz wenig ohne stand sah ging alles nichts mehr sehr leben hand art wohl selbst schon gesicht blickte stadt zeit 
+1	1	aschenbach schien welche tadzio fand zugleich fast venedig dachte ließ schon schönheit form zeigte schöne meer tiefen stunden zwischen terrasse 
+2	1	tonio kröger sagte augen hans würde lisaweta sehnsucht künstler kommen dennoch wußte dachte saß darin namen seele kunst hansen wind 
+3	1	während sagte augen lag begann immer paar frau friedemann kleine augenblick ersten jahre uns sass wäre glück vielleicht worte platz 
+4	1	herr sagte spinell augen herrn ihrem ließ großen klöterjahn trat schön doktor weiß stehen wissen gattin lippen frau wollen kunst
+
+
+TOPIC MODEL FOR 5 TOPICS RE-RUN: 
+
+0	1	aschenbach schien welche ließ tadzio fand schon zugleich dachte lächeln venedig zeigte form schönheit kunst meer werk schöne terrasse haupt 
+1	1	augen ganz ohne stand sah ging alles nichts sehr mehr leben art selbst wohl zwischen gesicht blickte stadt zeit kopf 
+2	1	während sagte wenig begann paar friedemann augenblick jahre sass immer kleine glück herr meiner meinen hand meinem irgend mutter lange 
+3	1	herr sagte spinell ihrem herrn kleinen frau großen klöterjahn schön doktor ausdruck wenig gewissen hervor wissen gattin kunst hieronymus dennoch 
+4	1	tonio kröger wenig sagte hans würde liebe lisaweta sehnsucht weil künstler kommen wußte hause immer niemals herz alle mußte saß
+
+
+TOPIC MODEL FOR 6 TOPICS: 
+
+0	0.83333	augen wenig ohne sah ging alles stand nichts mehr sehr leben art selbst wohl gesicht blickte zeit kopf vielleicht immer 
+1	0.83333	tonio kröger sagte ganz hans lange lisaweta sehnsucht künstler wußte dennoch zuweilen dachte hansen kommen stand hinein inge tief nehmen 
+2	0.83333	herr sagte spinell herrn großen klöterjahn kleinen frau doktor ganz garten ausdruck hervor gattin schön ließ hieronymus fenster einfried dennoch 
+3	0.83333	aschenbach ließ schien tadzio venedig form schöne schönheit dachte terrasse saß rasch strand haupt augenblick fremden erinnerte meere fahrt halle 
+4	0.83333	schon zwischen stadt gegen blick gewesen hand würde kunst wurde tat lassen wollte haar fast meer brust aufs ward sonne 
+5	0.83333	sagte während ganz herr friedemann jahre sass glück frau hand meiner meinen meinem irgend boden augenblick neben grossen herrn übrigens
+
+
+
+TOPIC MODEL FOR 6 TOPICS RE-RUN: 
+
+0	0.83333	augen ganz ohne stand sah wenig ging alles nichts mehr sehr leben selbst wohl art gesicht blickte zeit kopf hand 
+1	0.83333	während sagte friedemann jahre sass stadt meiner augenblick meinem irgend frau kleine boden paar neben glücklich grossen tobias etwa übrigens 
+2	0.83333	gegen kunst großen schönheit lippen brust stadt welche trat fenster arm stirn langsam hieronymus schönen seele nase einige endlich große 
+3	0.83333	herr sagte herrn kleinen spinell ihrem klöterjahn fort frau ließ schön weiß doktor saß tür wenig garten hervor gattin führte 
+4	0.83333	aschenbach schon schien ließ tadzio fand venedig zugleich dachte lächeln schöne meer wasser zwischen terrasse haupt familie sinn einander geist 
+5	0.83333	tonio kröger hans sagte lisaweta kommen dennoch hansen wußte inge namen ingeborg fahren gleichsam künstler dachte schrieb sage sprache see
+
+
+TOPIC MODEL FOR 7 TOPICS: 
+
+0	0.71429	während friedemann jahre sass hand augenblick frau meiner meinem paar grossen worte tobias etwa immer rinnlingen glücklich langsam tod liess 
+1	0.71429	tonio kröger hans lisaweta herz künstler würde wußte hansen wind inge ließ ingeborg dafür gleichsam namen see entlang sehnsucht erkenntnis 
+2	0.71429	kunst schönheit brust lippen welche hieronymus seele nase großen langsam große form blüthenzweig gestalt fest stirn tiefen augen brauen werk 
+3	0.71429	aschenbach schien tadzio ließ venedig fand terrasse haupt wasser strand meere natur strande meer sonne fremden einander jahren hotel fahrt 
+4	0.71429	sagte augen ganz wenig stand ging alles leben herr sehr art sah gesicht blickte kopf vielleicht menschen hielt kleine lange 
+5	0.71429	nichts schon mehr wohl selbst zwischen ohne zeit einmal stadt gewesen kam gegen gut diesem mann welt während weit hand 
+6	0.71429	herr spinell klöterjahn herrn frau saß schön doktor garten gattin ließ kleinen weiß sprach einfried gnädige anders klöterjahns großen rätin
+
+
+TOPIC MODEL FOR 7 TOPICS RE-RUN: 
+
+0	0.71429	tonio kröger hans lisaweta weil liebe hansen sah ließ menschen inge ging sache dennoch verließ ingeborg dafür gleichsam beständig gewisse 
+1	0.71429	schon gegen würde stadt zwischen tage wurde tat dachte schien nichts meer gab gefühl ward fast welche fühlte während niemals 
+2	0.71429	während friedemann jahre sass kleine augenblick meiner menschen neben glücklich irgend blick grossen glück paar tobias etwa frau herrn bereits 
+3	0.71429	herr kunst großen fenster lippen sagte langsam mensch kleinen ausdruck arm stirn schwarzen schritt zwei schönheit wollen kleine hieronymus brauen 
+4	0.71429	herr spinell herrn frau klöterjahn ihrem hände doktor kleinen garten schön gattin übrigens einfried gnädige weiß spielte anders frage saß 
+5	0.71429	aschenbach ließ tadzio schien venedig form schöne strand meere schönheit saß terrasse erinnerte wasser halle menschen rasch san rande erkenntnis 
+6	0.71429	augen sagte ganz wenig stand ohne alles sah sehr leben hand ging mehr art selbst wohl gesicht blickte zeit vielleicht
+
+
+
+TOPIC MODEL FOR 8 TOPICS: 
+
+0	0.625	tonio kröger hans lisaweta ging hansen inge würde ingeborg namen dennoch ließ see weiß verließ knaak holm jimmerthal krögers zuweilen 
+1	0.625	herr spinell herrn klöterjahn frau schön doktor garten gattin einfried saß gnädige weiß ließ klöterjahns rätin leander rechten hände kleinen 
+2	0.625	kunst großen schönheit welche lippen hieronymus nase endlich große blüthenzweig langsam werk allen breiten ließ stelle brust indes bild stark 
+3	0.625	während friedemann sass jahre frau augenblick neben meiner grossen tobias meinem glücklich etwa langsam meinen rinnlingen herrn tod liess guten 
+4	0.625	sagte augen wenig ganz stand herr alles kopf hielt indem art sondern alle sehen gott weil anderen ihrem liebe nahm 
+5	0.625	aschenbach schien tadzio venedig dachte wasser ließ meere fand strand augen fahrt halle saß terrasse rasch san rande knaben sonne 
+6	0.625	schon gegen wurde tat fast meer würde ward fühlte wollte herz wußte sehnsucht erschien dunkel zugleich lächeln seele eben gedanken 
+7	0.625	ohne sah nichts mehr sehr hand leben selbst wohl zwischen gesicht blickte stadt zeit ging einmal gewesen immer kam menschen
+
+
+TOPIC MODEL FOR 8 TOPICS RE-RUN: 
+
+0	0.625	aschenbach tadzio venedig schönheit wasser saß augenblick strand halle meere hotel rande knaben geiste erkannte luft gondel fremden geruch sogleich 
+1	0.625	schon gegen würde ließ kunst lippen zuweilen fast großen namen wußte allen seele brauen sehnsucht fühlte mußte brust form große 
+2	0.625	sah schien zwischen zurück begann tat dachte haar stadt gefühl wurde meer beim irgend menschen welche ward bewegung gleich standen 
+3	0.625	augen wenig sehr blickte kopf hielt indem alle sondern welt kleinen fragte beiden mutter langsam zwei fenster immer viel kleine 
+4	0.625	ganz ohne stand ging alles nichts mehr leben hand art selbst wohl gesicht zeit vielleicht einmal gewesen lange sehen blick 
+5	0.625	tonio kröger sagte hans lisaweta dennoch weil hansen inge hause herr ingeborg dafür herz wind kam künstler see weiß saß 
+6	0.625	herr sagte spinell herrn klöterjahn frau doktor gattin hieronymus einfried gnädige weiß blüthenzweig klöterjahns rätin leander saß schön ihrem ließ 
+7	0.625	sagte herr während friedemann sass jahre frau meiner augenblick neben herrn grossen meinen tobias boden glücklich meinem rinnlingen paar liess
+
+
+TOPIC MODEL FOR 10 TOPICS: 
+
+0	0.5	wurde dachte meer gefühl ward welche fand zugleich oft lächeln fast jugend wasser sinn einander leidenschaft gerade gedanke natur stunde 
+1	0.5	augen ganz sah ging alles nichts mehr sehr leben hand art wohl selbst zwischen zeit vielleicht einmal blickte gewesen kam 
+2	0.5	schon ließ gegen würde stand sehnsucht namen wußte brauen seele sonne gedanken endlich mußte zeigte wesen form große stille fast 
+3	0.5	tonio kröger hans lisaweta hansen inge ingeborg saß lange würde nehmen künstler weiß knaak holm jimmerthal krögers dafür hause nahm 
+4	0.5	herr spinell klöterjahn frau doktor gattin herrn einfried gnädige garten klöterjahns rätin leander spatz saß hände rechten schön schatten lächelte 
+5	0.5	sagte wenig herr stand gesicht kopf hielt indem sondern sehen gott alle weil ihrem herrn sagen beiden mutter stimme fragte 
+6	0.5	lippen großen stirn hieronymus kunst nase blüthenzweig gestalt schönheit langsam indes bild richtete ausdruck stark nehmen gerichtet verbrennen inmitten vernehmen 
+7	0.5	friedemann sass frau während grossen tobias glücklich jahre glück rinnlingen liess meinen meinem paolo musste meiner neben esau eltern weiss 
+8	0.5	während kleine ohne stadt kleinen zwei begann lange augenblick paar wäre haar tage platz damit blieb irgend boden fühlte nahm 
+9	0.5	aschenbach schien tadzio venedig saß kunst halle terrasse hotel knaben gepäck geiste einige schöne schönheit gondel strande knabe sand fahrt
+
+
+TOPIC MODEL FOR 10 TOPICS RE-RUN: 
+
+0	0.5	aschenbach tadzio venedig saß strand meere halle san rande wasser hotel geiste schönen gondel sonderbar fremden marco zuweilen erkannte geruch 
+1	0.5	nichts schon mehr sehr stand ging wohl zeit ganz blick gott würde anderen hände gut welt gegen gewesen zimmer wurde 
+2	0.5	während hand zwischen lag tage augenblick ersten wäre haar glück worte ende platz leise irgend weise alles fühlte andere kaum 
+3	0.5	herr spinell klöterjahn frau doktor herrn gattin einfried gnädige weiß klöterjahns rätin leander saß spatz garten zähne schriftsteller lächelte mann 
+4	0.5	kunst lippen großen langsam hieronymus nase schönheit blüthenzweig allen große fragen lachen fenster weißen bild brust stark sprache gerichtet indem 
+5	0.5	ließ schien fast welche fand zugleich lächeln brauen zeigte form tiefen schöne werk erkenntnis stirn haupt einander geschah stelle rasch 
+6	0.5	friedemann sass frau jahre grossen tobias rinnlingen glücklich liess meinem paolo musste meiner herrn neben langsam esau weiss bereits meinen 
+7	0.5	ohne sah leben art blickte stadt selbst einmal kam menschen lange immer plötzlich zurück kopf zwei begann dachte trug will 
+8	0.5	tonio kröger hans lisaweta liebe hansen inge hause kommen ingeborg knaak holm jimmerthal weiß saß künstler krögers polizist literatur menschlichen 
+9	0.5	sagte augen wenig herr ganz gesicht vielleicht alles hielt kleine alle sehen weil kleinen ihrem nahm sagen fragte weit paar
